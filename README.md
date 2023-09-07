@@ -57,11 +57,13 @@ En el proceso del EDA se identificaron comportamientos, patrones y tendencias pa
 ## Key Performance Indicator
 Se plantearon 3 KPI's para la toma de decisiones al momento de adquirir estos activos financieros:
 
-1. Variación procentual de precio: Mide la variación en el precio de una criptomoneda en un período específico. Su cálculo es la diferencia entre el 
-precio actual y el precio anterior dividido entre el precio anterior. Esto refleja cuánto ha aumentado o disminuido el precio en relación al valor anterior.
+1. Variación procentual de precio: Mide la variación del máximo precio diario de una criptomoneda en un período específico con el precio actual. Si el precio actual tiene una mayor variación procentual, será el tiempo para comprar criptomonedas.
 
-2.  Relación volúmen - capitalización del mercado: Compara la cantidad del volúmen de cada criptomoneda en un período específico con la capitalizacion del mercado. Una relación alta sugiere que el valor del volúmen es alto en comparación con la capitalización del mercado que tiene una relación positiva con el precio, mientras un valor de la relación bajo indica lo contrario.
+2.  Variación del riesgo: Mide la variación de la media de los cambios porcentuales de las desviaciones estándar de los precios diarios de una criptomoneda desde el año 2020 con la desviación estándar o riesgo al que el cliente estaría dispuesto, en este caso el 0.30 ante un escenario de riesgo bajo.
 
-3. Potencial de crecimiento: Indica el potencial de crecimiento restante de una criptomoneda en comparación con su estimación total de crecimiento.
+3. Variación de la capitalización del mercado: Mide la variación de la media de los precios de la capitalización del mercado diario de una criptomoneda con el máximo valor de capitalización del mercado.
+
+## Visualización del PowerBI
+Puedes ver el dashboard en el siguiente enlace **[Dashboard](Visualizacion%20_l%20Proyecto.pbix)**
 
 Espero les haya gustado el desarrollo de este proyecto, cualquier consulta pueden escribirme a **[LinkedIn](https://www.linkedin.com/in/alejandra-lizeth-salas-talavera/)**
