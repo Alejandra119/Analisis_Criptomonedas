@@ -64,6 +64,6 @@ Se plantearon 3 KPI's para la toma de decisiones al momento de adquirir estos ac
 3. Variación de la capitalización del mercado: Mide la variación de la media de los precios de la capitalización del mercado diario de una criptomoneda con el máximo valor de capitalización del mercado.
 
 ## Visualización del PowerBI
-Puedes ver el dashboard en el siguiente enlace **[Dashboard](Visualizacion%20_l%20Proyecto.pbix)**
+Puedes ver el dashboard en el siguiente enlace **[Dashboard](Visualizacion_Proyecto.pbix)**
 
 Espero les haya gustado el desarrollo de este proyecto, cualquier consulta pueden escribirme a **[LinkedIn](https://www.linkedin.com/in/alejandra-lizeth-salas-talavera/)**
